@@ -4,7 +4,7 @@ import classNames from 'classnames'
 
 interface Props {
   tag?: any
-  icon: string | string[]
+  icon: any
   href?: string
   bg?: string
   size?: 'sm' | 'lg'
