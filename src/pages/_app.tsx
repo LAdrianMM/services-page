@@ -1,4 +1,5 @@
-import '../styles/globals.css'
+import 'react-toastify/dist/ReactToastify.min.css'
+import '@assets/scss/theme.scss'
 import type { AppProps } from 'next/app'
 
 function MyApp({ Component, pageProps }: AppProps) {
